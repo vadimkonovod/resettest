@@ -1,3 +1,3 @@
 # resettest
 
-master branch init commit
+master branch 3rd commit
